@@ -36,5 +36,3 @@ SELECT * FROM contacts;
 DELETE FROM contacts WHERE last_name = "Greenlight";
 SELECT * FROM contacts;
 
-
-
